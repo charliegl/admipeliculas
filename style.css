@@ -1,0 +1,27 @@
+.campelis {
+    background-image: url("./popcorn-1085072_1280.jpg");
+    background-size: cover;
+    width: px;
+    height: 200px;
+    font-size: 500%;
+    justify-content: center;
+
+
+    /* font-family: 'Roboto', sans-serif; */
+
+    /*background-position: center;
+    
+  /* Additional background properties can be added as needed */
+}
+
+.my-3{
+    background-image: linear-gradient(to bottom, #fff4f4, #fdfdfd);
+}
+
+.card{
+  padding: 8%;
+}
+
+.row{
+  padding: 4%;
+}
